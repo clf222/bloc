@@ -1,0 +1,9 @@
+html {
+	background-color:green;
+}
+h1 {
+	padding-top: 100px;
+}
+h1, h3 {
+	text-align: center;
+}
